@@ -18,7 +18,6 @@ The analysis explores how the human auditory cortex parses complex acoustic stre
 #### Time-Frequency Dynamics:
 - Computation of Time-Frequency Representations (TFRs) using Morlet wavelets.
 - Baseline correction using pre-task resting-state epochs to isolate stimulus-evoked responses.
-- Statistical validation using permutation t-tests with False Discovery Rate (FDR) correction ($p < 0.05$).
 
 ## Tech StackLanguage: 
 Python 3.x
